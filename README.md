@@ -7,7 +7,7 @@ PPO(Proximal policy optimization) algorithm  with multiple actor critics used to
 Training duration : 102 hrs for 20000 updates using 1 RTXA6000 48 GB GPU and 10 CPU machine 
 <p>
     <img width="1600" height="400" src="https://github.com/jayaram1125/Multi_Agent_SnakeGym_PPO/blob/main/Cooperative_Output/Cooperative.png">
-    <img width="400" height="400" src="https://github.com/jayaram1125/Multi_Agent_SnakeGym_PPO/blob/main/Cooperative_Output/TrainOutput/Episode_5228_GreenSnakeWin_GIF_0.25x.gif" hspace="50">
+    <img width="400" height="400" src="https://github.com/jayaram1125/Multi_Agent_SnakeGym_PPO/blob/main/Cooperative_Output/TrainOutput/Episode_5228_GreenSnakeWin_GIF_0.25x.gif" hspace="100">
     <img width="400" height="400" src="https://github.com/jayaram1125/Multi_Agent_SnakeGym_PPO/blob/main/Cooperative_Output/TestOutput/Test_Episode_2_BlueSnakeWinGIF_0.25x.gif" hspace="100">
 </p>
 
