@@ -12,8 +12,8 @@ Training duration : 102 hrs for 20000 updates using 1 RTXA6000 48 GB GPU and 10 
                                                       COOPERATIVE STRATEGY
 <p>
     <img width="1600" height="400" src="https://github.com/jayaram1125/Multi_Agent_SnakeGym_PPO/blob/main/Cooperative_Output/Cooperative.png">
-    <img width="400" height="400" src="https://github.com/jayaram1125/Multi_Agent_SnakeGym_PPO/blob/main/Cooperative_Output/TrainOutput/Episode_5228_GreenSnakeWin_GIF_0.25x.gif" hspace="5">
-    <img width="400" height="400" src="https://github.com/jayaram1125/Multi_Agent_SnakeGym_PPO/blob/main/Cooperative_Output/TestOutput/Test_Episode_2_BlueSnakeWinGIF_0.25x.gif" hspace="55">
+    <img width="400" height="400" src="https://github.com/jayaram1125/Multi_Agent_SnakeGym_PPO/blob/main/Cooperative_Output/TrainOutput/Episode_5228_GreenSnakeWin_GIF_0.25x.gif" hspace="50">
+    <img width="400" height="400" src="https://github.com/jayaram1125/Multi_Agent_SnakeGym_PPO/blob/main/Cooperative_Output/TestOutput/Test_Episode_2_BlueSnakeWinGIF_0.25x.gif" hspace="100">
 </p>
 
 <br/>
@@ -23,8 +23,8 @@ Training duration : 102 hrs for 20000 updates using 1 RTXA6000 48 GB GPU and 10 
 
 <p>
     <img width="1600" height="400" src="https://github.com/jayaram1125/Multi_Agent_SnakeGym_PPO/blob/main/Competitive_Output/Competitive.png">
-    <img width="400" height="400" src="https://github.com/jayaram1125/Multi_Agent_SnakeGym_PPO/blob/main/Competitive_Output/TrainOutput/Episode_5018_GreenSnakeWin_0.0625x_GIF.gif" hspace="5">
-    <img width="400" height="400" src="https://github.com/jayaram1125/Multi_Agent_SnakeGym_PPO/blob/main/Competitive_Output/Test_output/Test_Episode_4_BlueSnakeWin_GIF_0.25x.gif" hspace="55">
+    <img width="400" height="400" src="https://github.com/jayaram1125/Multi_Agent_SnakeGym_PPO/blob/main/Competitive_Output/TrainOutput/Episode_5018_GreenSnakeWin_0.0625x_GIF.gif" hspace="50">
+    <img width="400" height="400" src="https://github.com/jayaram1125/Multi_Agent_SnakeGym_PPO/blob/main/Competitive_Output/Test_output/Test_Episode_4_BlueSnakeWin_GIF_0.25x.gif" hspace="100">
 </p>
 
 <br/>
