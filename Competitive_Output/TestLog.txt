@@ -1,0 +1,10 @@
+Test_Episode0:snake1_return=160.8 snake2_return=0.1,length=401
+Test_Episode1:snake1_return=172.4 snake2_return=6.4,length=533
+Test_Episode2:snake1_return=1.7 snake2_return=164.2,length=441
+Test_Episode3:snake1_return=165.5 snake2_return=1.1,length=449
+Test_Episode4:snake1_return=18.9 snake2_return=170.2,length=551
+Test_Episode5:snake1_return=42.0 snake2_return=19.8,length=250
+Test_Episode6:snake1_return=1.9 snake2_return=168.3,length=487
+Test_Episode7:snake1_return=167.8 snake2_return=28.2,length=562
+Test_Episode8:snake1_return=7.4 snake2_return=173.3,length=552
+Test_Episode9:snake1_return=166.8 snake2_return=12.5,length=497
