@@ -24,7 +24,7 @@ Training duration : 102 hrs for 20000 updates using 1 RTXA6000 48 GB GPU and 10 
 <p>
     <img width="1600" height="400" src="https://github.com/jayaram1125/Multi_Agent_SnakeGym_PPO/blob/main/Competitive_Output/Competitive.png">
     <img title="Green Snake Completes Game" width="400" height="400" src="https://github.com/jayaram1125/Multi_Agent_SnakeGym_PPO/blob/main/Competitive_Output/TrainOutput/Episode_5018_GreenSnakeWin_0.0625x_GIF.gif">
-    <img width="Blue Snake Completes Game" width="400" height="400" src="https://github.com/jayaram1125/Multi_Agent_SnakeGym_PPO/blob/main/Competitive_Output/Test_output/Test_Episode_4_BlueSnakeWin_GIF_0.25x.gif" hspace="50">
+    <img title="Blue Snake Completes Game" width="400" height="400" src="https://github.com/jayaram1125/Multi_Agent_SnakeGym_PPO/blob/main/Competitive_Output/Test_output/Test_Episode_4_BlueSnakeWin_GIF_0.25x.gif" hspace="50">
 </p>
 
 <br/>
