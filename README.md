@@ -31,8 +31,8 @@ Training duration : 102 hrs for 20000 updates using 1 RTXA6000 48 GB GPU and 10 
 <br/>
 
 Note:Except the files mpi_pytorch.py, mpi_tools.py,ppo.py, video_recorder.py, multisnake_test.py , all other files have to be placed in the path envpool/envpool/box2d folder to build and install the environment <br/>
-Commands used for envpool lib <br/>
-1.To build : make bazel-build   in the path ~/envpool   <br/>
-2.To install : pip install /home/jayaram/SnakeGame/envpool/dist/envpool-0.6.7-cp39-cp39-linux_x86_64.whl <br/>
+
+1.To build envpool : make bazel-build   in the path ~/envpool   <br/>
+2.To install envpool: pip install /home/jayaram/SnakeGame/envpool/dist/envpool-0.6.7-cp39-cp39-linux_x86_64.whl <br/>
 3.To train and test model: AVAI_DEVICES=0 RCALL_NUM_GPU=1 mpiexec -np 1 python3 -m multi_agent_ppo <br/>
 4.GIFS are captured in slow motion to show the interaction between snake agents more clearly <br/>
